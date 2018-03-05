@@ -87,7 +87,7 @@ sub check_soft
 		# Should match
 		foreach (@include)
 		{
-			if ($line =~ /$_/)
+			if ($line =~ /$_/i)
 			{
 				$found=1;
 				last;
@@ -99,7 +99,7 @@ sub check_soft
 		{
 			foreach (@exclude)
 			{
-				if ($line =~ /$_/)
+				if ($line =~ /$_/i)
 				{
 					$found=0;
 					last;
