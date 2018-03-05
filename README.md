@@ -8,6 +8,8 @@ Usage
 ```
 Usage : check_file_content.pl -f file -i include -e exclude -n lines_number [-h]
 
+*Softcom/Morphean fork mades the check case unsensitive
+
 Options :
  -f
 	Full path to file to analyze

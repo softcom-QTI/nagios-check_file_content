@@ -10,7 +10,7 @@
 #      OPTIONS:  ---
 # REQUIREMENTS:  ---
 #         BUGS:  ---
-#        NOTES:  ---
+#        NOTES:  Softcom/Morphean fork mades the check unsensitive 
 #       AUTHOR:  Pierre Mavro (), pierre@mavro.fr
 #      COMPANY:  
 #      VERSION:  0.1
